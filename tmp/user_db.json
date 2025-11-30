@@ -1,0 +1,309 @@
+{
+  "xzc": {
+    "username": "xzc",
+    "password": "123456",
+    "total_score": 3800,
+    "unlocked_weapons": {
+      "P92": {
+        "name": "P92",
+        "damage": 50,
+        "bullet_speed": 9,
+        "bullet_size": 4,
+        "clip_capacity": 7,
+        "total_ammo": 63,
+        "current_clip": 7,
+        "current_ammo": 70,
+        "single_rate": 400,
+        "auto_rate": null,
+        "active_mode": "single"
+      },
+      "AKM": {
+        "name": "AKM",
+        "damage": 47,
+        "bullet_speed": 11,
+        "bullet_size": 5,
+        "clip_capacity": 30,
+        "total_ammo": 66,
+        "current_clip": 30,
+        "current_ammo": 96,
+        "single_rate": 350,
+        "auto_rate": 120,
+        "active_mode": "single"
+      },
+      "M16A4": {
+        "name": "M16A4",
+        "damage": 40,
+        "bullet_speed": 12.5,
+        "bullet_size": 5,
+        "clip_capacity": 30,
+        "total_ammo": 66,
+        "current_clip": 30,
+        "current_ammo": 36,
+        "single_rate": 280,
+        "auto_rate": 90,
+        "active_mode": "single"
+      },
+      "M416": {
+        "name": "M416",
+        "damage": 42,
+        "bullet_speed": 13,
+        "bullet_size": 5,
+        "clip_capacity": 30,
+        "total_ammo": 90,
+        "current_clip": 30,
+        "current_ammo": 60,
+        "single_rate": 300,
+        "auto_rate": 100,
+        "active_mode": "auto"
+      },
+      "AUG": {
+        "name": "AUG",
+        "damage": 41,
+        "bullet_speed": 11.5,
+        "bullet_size": 5,
+        "clip_capacity": 30,
+        "total_ammo": 66,
+        "current_clip": 30,
+        "current_ammo": 36,
+        "single_rate": 320,
+        "auto_rate": 110,
+        "active_mode": "single"
+      }
+    },
+    "player": {
+      "max_hp": 100,
+      "current_hp": 0,
+      "speed": 5,
+      "is_invincible": false,
+      "current_weapon_index": 1,
+      "weapons": [
+        {
+          "name": "P92",
+          "damage": 50,
+          "bullet_speed": 9,
+          "bullet_size": 4,
+          "clip_capacity": 7,
+          "total_ammo": 63,
+          "current_clip": 7,
+          "current_ammo": 56,
+          "single_rate": 400,
+          "auto_rate": null,
+          "active_mode": "single"
+        },
+        {
+          "name": "AUG",
+          "damage": 41,
+          "bullet_speed": 11.5,
+          "bullet_size": 5,
+          "clip_capacity": 30,
+          "total_ammo": 66,
+          "current_clip": 0,
+          "current_ammo": 7,
+          "single_rate": 320,
+          "auto_rate": 110,
+          "active_mode": "auto"
+        },
+        {
+          "name": "M16A4",
+          "damage": 40,
+          "bullet_speed": 12.5,
+          "bullet_size": 5,
+          "clip_capacity": 30,
+          "total_ammo": 66,
+          "current_clip": 30,
+          "current_ammo": 36,
+          "single_rate": 280,
+          "auto_rate": 90,
+          "active_mode": "single"
+        }
+      ]
+    }
+  },
+  "test_write_user": {
+    "username": "test_write_user",
+    "password": "test123456",
+    "total_score": 100,
+    "unlocked_weapons": {
+      "P92": {
+        "name": "P92",
+        "damage": 50,
+        "bullet_speed": 9,
+        "bullet_size": 4,
+        "clip_capacity": 7,
+        "total_ammo": 63,
+        "current_clip": 7,
+        "current_ammo": 56,
+        "single_rate": 400,
+        "auto_rate": null,
+        "active_mode": "single"
+      }
+    },
+    "player": {
+      "max_hp": 100,
+      "current_hp": 100,
+      "speed": 5,
+      "is_invincible": false,
+      "current_weapon_index": 0,
+      "weapons": [
+        {
+          "name": "P92",
+          "damage": 50,
+          "bullet_speed": 9,
+          "bullet_size": 4,
+          "clip_capacity": 7,
+          "total_ammo": 63,
+          "current_clip": 7,
+          "current_ammo": 56,
+          "single_rate": 400,
+          "auto_rate": null,
+          "active_mode": "single"
+        },
+        null,
+        null
+      ]
+    }
+  },
+  "self_test": {
+    "username": "self_test",
+    "password": "test123",
+    "total_score": 200,
+    "unlocked_weapons": {
+      "P92": {
+        "name": "P92",
+        "damage": 50,
+        "bullet_speed": 9,
+        "bullet_size": 4,
+        "clip_capacity": 7,
+        "total_ammo": 63,
+        "current_clip": 7,
+        "current_ammo": 56,
+        "single_rate": 400,
+        "auto_rate": null,
+        "active_mode": "single"
+      }
+    },
+    "player": {
+      "max_hp": 100,
+      "current_hp": 100,
+      "speed": 5,
+      "is_invincible": false,
+      "current_weapon_index": 0,
+      "weapons": [
+        {
+          "name": "P92",
+          "damage": 50,
+          "bullet_speed": 9,
+          "bullet_size": 4,
+          "clip_capacity": 7,
+          "total_ammo": 63,
+          "current_clip": 7,
+          "current_ammo": 56,
+          "single_rate": 400,
+          "auto_rate": null,
+          "active_mode": "single"
+        },
+        null,
+        null
+      ]
+    }
+  },
+  "final_test_user": {
+    "username": "final_test_user",
+    "password": "game_test_666",
+    "total_score": 1000
+  },
+  "json_full_test": {
+    "username": "json_full_test",
+    "password": "json123456",
+    "total_score": 7360,
+    "unlocked_weapons": {
+      "P92": {
+        "name": "P92",
+        "damage": 50,
+        "bullet_speed": 9,
+        "bullet_size": 4,
+        "clip_capacity": 7,
+        "total_ammo": 63,
+        "current_clip": 7,
+        "current_ammo": 56,
+        "single_rate": 400,
+        "auto_rate": null,
+        "active_mode": "single"
+      },
+      "AKM": {
+        "name": "AKM",
+        "damage": 47,
+        "bullet_speed": 11,
+        "bullet_size": 5,
+        "clip_capacity": 30,
+        "total_ammo": 66,
+        "current_clip": 30,
+        "current_ammo": 96,
+        "single_rate": 350,
+        "auto_rate": 120,
+        "active_mode": "single"
+      },
+      "M16A4": {
+        "name": "M16A4",
+        "damage": 40,
+        "bullet_speed": 12.5,
+        "bullet_size": 5,
+        "clip_capacity": 30,
+        "total_ammo": 66,
+        "current_clip": 30,
+        "current_ammo": 36,
+        "single_rate": 280,
+        "auto_rate": 90,
+        "active_mode": "single"
+      }
+    },
+    "player": {
+      "max_hp": 100,
+      "current_hp": 0,
+      "speed": 5,
+      "is_invincible": false,
+      "current_weapon_index": 2,
+      "weapons": [
+        {
+          "name": "P92",
+          "damage": 50,
+          "bullet_speed": 9,
+          "bullet_size": 4,
+          "clip_capacity": 7,
+          "total_ammo": 63,
+          "current_clip": 7,
+          "current_ammo": 56,
+          "single_rate": 400,
+          "auto_rate": null,
+          "active_mode": "single"
+        },
+        {
+          "name": "AKM",
+          "damage": 47,
+          "bullet_speed": 11,
+          "bullet_size": 5,
+          "clip_capacity": 30,
+          "total_ammo": 66,
+          "current_clip": 18,
+          "current_ammo": 7,
+          "single_rate": 350,
+          "auto_rate": 120,
+          "active_mode": "auto"
+        },
+        {
+          "name": "M16A4",
+          "damage": 40,
+          "bullet_speed": 12.5,
+          "bullet_size": 5,
+          "clip_capacity": 30,
+          "total_ammo": 66,
+          "current_clip": 27,
+          "current_ammo": 36,
+          "single_rate": 280,
+          "auto_rate": 90,
+          "active_mode": "single"
+        }
+      ]
+    }
+  }
+}
