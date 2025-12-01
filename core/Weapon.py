@@ -108,70 +108,70 @@ class Weapon:
 DEFAULT_WEAPONS = {
     "M249": Weapon(
         name="M249",
-        damage=40,
+        damage=44,
         bullet_speed=11,
         bullet_size=6,
-        clip_capacity=50,
-        total_ammo=15 + (4 * 50),
+        clip_capacity=90,
+        total_ammo=15 + (2 * 90),
         single_rate=350,
         auto_rate=80
     ),
     "M416": Weapon(
         name="M416",
-        damage=40,
+        damage=36,
         bullet_speed=12,
         bullet_size=5,
-        clip_capacity=30,
-        total_ammo=1 + (3 * 30),
+        clip_capacity=45,
+        total_ammo=1 + (3 * 45),
         single_rate=300,
-        auto_rate=100
+        auto_rate=40
     ),
     "M16A4": Weapon(
         name="M16A4",
-        damage=40,
+        damage=46,
         bullet_speed=12.5,
         bullet_size=5,
         clip_capacity=30,
         total_ammo=6 + (2 * 30),
         single_rate=280,
-        auto_rate=90
+        auto_rate=60
     ),
     "AUG": Weapon(
         name="AUG",
-        damage=41,
+        damage=66,
         bullet_speed=11.5,
         bullet_size=5,
-        clip_capacity=30,
-        total_ammo=6 + (2 * 30),
+        clip_capacity=23,
+        total_ammo=6 + (4 * 30),
         single_rate=320,
-        auto_rate=110
+        auto_rate=85
     ),
     "AKM": Weapon(
         name="AKM",
-        damage=47,
+        damage=77,
         bullet_speed=11,
         bullet_size=5,
-        clip_capacity=30,
-        total_ammo=6 + (2 * 30),
+        clip_capacity=17,
+        total_ammo=6 + (1 * 30),
         single_rate=350,
-        auto_rate=120
+        auto_rate=50
     ),
     "98K": Weapon(
         name="98K",
-        damage=79,
+        damage=200,
         bullet_speed=15,
         bullet_size=8,
         clip_capacity=5,
         total_ammo=5 + (5 * 5),
-        single_rate=1500
+        single_rate=1200
     ),
     "P92": Weapon(
         name="P92",
-        damage=50,
+        damage=90,
         bullet_speed=9,
         bullet_size=4,
         clip_capacity=7,
         total_ammo=7 + 56,
-        single_rate=400
+        single_rate=55
     )
 }

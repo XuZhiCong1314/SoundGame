@@ -20,7 +20,7 @@ class GamePage(BasePage):
         self.BASE_SPAWN_INTERVAL = 2000
         self.MIN_SPAWN_INTERVAL = 800
         self.SPAWN_SPEEDUP_RATE = 50
-        self.BULLET_MAX_DISTANCE = 600
+        self.BULLET_MAX_DISTANCE = 3000
         self.RELOAD_TIME = 1200
         
         # 敌人生成距离（保持500-1500像素极远距）
